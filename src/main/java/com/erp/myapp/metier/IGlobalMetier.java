@@ -1,0 +1,5 @@
+package com.erp.myapp.metier;
+
+public interface IGlobalMetier extends IUserMetier,IRoleMetier,IEntrepriseMetier,IFournisseur_ProMetier,IBonDeLivraisonMetier,IDevisMetier,IFactureMetier,ILineMetier,ITotalMetier,IArticleMetier,ISortieVenteMetier,IEntryAchatMetier,IEmployeeMetier,ICustomer_ProMetier,IAvoirMetier,IThemeMetier {
+
+}
